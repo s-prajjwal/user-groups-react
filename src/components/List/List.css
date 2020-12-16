@@ -1,0 +1,25 @@
+.list-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.actn-btn{
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    background: none;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: thin;
+    color: white;
+    font-size: 16px;
+}
+
+.update{
+    background-color: #008000;
+}
+
+.remove{
+    background-color: 	#8B0000;
+}

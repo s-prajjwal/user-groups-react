@@ -1,0 +1,36 @@
+.form-wrapper{
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.group-logo{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-content-wrapper{
+    flex-basis: 55%;
+}
+
+.form-control{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    width: 90%;
+}
+
+.form-control > label {
+    font-size: 16px;
+    font-family: monospace;
+    color: #A9A9A9;
+}
+
+.form-input{
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 40px;
+}

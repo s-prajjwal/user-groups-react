@@ -1,0 +1,13 @@
+.page-nums{
+    border: 1px solid black;
+    padding: 5px;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.pagination-wrapper {
+    padding: 0 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
